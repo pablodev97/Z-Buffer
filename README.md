@@ -1,4 +1,6 @@
 # Z-Buffer
+![Image of Project](https://i.ibb.co/brr9T0z/ZBuffer-Portada.png)
+
 The development of this project consisted in implement a 3D graphics software that loaded a scene described in a file and display it on the screen. To achieve this I implemented the following archictecture:
 
   - View. Class in charge of the models, lights and cameras of the scene.
