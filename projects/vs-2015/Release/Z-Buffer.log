@@ -1,0 +1,9 @@
+﻿  View.cpp
+  Generando código
+C:\Users\Alumno\Desktop\Z-buffer\binaries\libraries\cpp-toolkit\headers\Projection.hpp(55): warning C4723: posible división por 0
+C:\Users\Alumno\Desktop\Z-buffer\binaries\libraries\cpp-toolkit\headers\Projection.hpp(54): warning C4723: posible división por 0
+  1 of 2028 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Z-Buffer.vcxproj -> C:\Users\Alumno\Desktop\Z-buffer\projects\vs-2015\Release\Z-Buffer.exe

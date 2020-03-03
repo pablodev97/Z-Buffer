@@ -1,0 +1,6 @@
+﻿  Model.cpp
+C:\Users\Alumno\Downloads\2241-3-1-JIMENO_DOMINGUEZ_PABLO_0174e102-dbbe-46a4-bf59-80e4d65ea02a\Z-buffer\code\source\Model.cpp(59,25): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Alumno\Downloads\2241-3-1-JIMENO_DOMINGUEZ_PABLO_0174e102-dbbe-46a4-bf59-80e4d65ea02a\Z-buffer\code\source\Model.cpp(129,39): warning C4244:  '*=': conversión de 'float' a 'uint8_t'; posible pérdida de datos
+C:\Users\Alumno\Downloads\2241-3-1-JIMENO_DOMINGUEZ_PABLO_0174e102-dbbe-46a4-bf59-80e4d65ea02a\Z-buffer\code\source\Model.cpp(130,39): warning C4244:  '*=': conversión de 'float' a 'uint8_t'; posible pérdida de datos
+C:\Users\Alumno\Downloads\2241-3-1-JIMENO_DOMINGUEZ_PABLO_0174e102-dbbe-46a4-bf59-80e4d65ea02a\Z-buffer\code\source\Model.cpp(131,39): warning C4244:  '*=': conversión de 'float' a 'uint8_t'; posible pérdida de datos
+  Z-Buffer.vcxproj -> C:\Users\Alumno\Downloads\2241-3-1-JIMENO_DOMINGUEZ_PABLO_0174e102-dbbe-46a4-bf59-80e4d65ea02a\Z-buffer\projects\vs-2015\Debug\Z-Buffer.exe
